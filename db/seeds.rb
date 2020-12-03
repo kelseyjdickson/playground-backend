@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+user = User.create(username: 'Luke', password: 'Lukee', image:'https://media.gettyimages.com/photos/american-actor-mark-hamill-on-the-set-of-star-wars-episode-iv-a-new-picture-id607402186?s=612x612')
